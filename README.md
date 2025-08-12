@@ -31,4 +31,9 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@vladislav9236)
 
-## My personal [github](https://github.com/Vlad-Yarko)
+## Stack Overflow
+
+<a href="https://stackoverflow.com/users/31261905/vladislav-yarko"><img src="https://stackoverflow.com/users/flair/31261905.png?theme=dark" width="208" height="58" alt="profile for Vladislav Yarko at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Vladislav Yarko at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+## Personal [github](https://github.com/Vlad-Yarko)
+## Working [github](https://github.com/Vladislav-Yarko)
