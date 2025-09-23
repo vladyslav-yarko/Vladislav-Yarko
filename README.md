@@ -84,10 +84,6 @@ Here are some of my main projects (more in my repos):
 
 ---
 
-## 💼 Freelance / Portfolio
-I’m available for freelance work.  
-- Upwork: *[placeholder link]*  
-- Fiverr: *[placeholder link]*  
 - Portfolio Website (GitHub Pages / Notion): *[placeholder link]*  
 
 ---
