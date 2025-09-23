@@ -73,7 +73,9 @@ I create functional and clean frontends with solid UI ⚡
 ## 📐 Principles & Patterns
 - **OOP** – Object-Oriented Programming  
 - **SOLID** – Clean and maintainable code  
-- **DAO** – Data Access Object pattern  
+- **DAO** – Data Access Object pattern
+- **Repository** - Encapsulates data access logic
+- **Onion architecture** - Layered architecture for maintainable applications
 - **DDD** – Domain-Driven Design  
 - **REST Architecture** – Clean, scalable API design  
 
