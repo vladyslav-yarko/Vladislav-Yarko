@@ -90,7 +90,6 @@ Here are some of my main projects (more in my repos):
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vladyslav-yarko&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslav-yarko&layout=compact&theme=radical)  
 
 ---
